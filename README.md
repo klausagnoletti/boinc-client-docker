@@ -1,5 +1,7 @@
 # BOINC client in a Docker container
 
+Dockerfile for nvidia is updated to use latest CUDA version on Ubuntu20.04 (fails to run on latest host driver)
+
 [![](https://images.microbadger.com/badges/version/boinc/client.svg)](https://microbadger.com/images/boinc/client "Get your own version badge on microbadger.com")
 [![](https://images.microbadger.com/badges/image/boinc/client.svg)](https://microbadger.com/images/boinc/client "Get your own image badge on microbadger.com")
 ![Docker Pulls](https://img.shields.io/docker/pulls/boinc/client.svg)
